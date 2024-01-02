@@ -21,3 +21,7 @@ If you want to publish your resume to GitHub pages, you can do so by following t
 3. Select the `main` branch and `/ (root)` folder and click Save
 4. Your resume will be published to `https://<your-github-username>.github.io/repo-name`
 
+## License
+
+MIT
+
