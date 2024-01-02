@@ -2,7 +2,7 @@
 
 [View Template Live](https://burkeholland.github.io/bulma-resume)
 
-A resume template built with [Bulma CSS framework](https://bulma.dev).
+A resume template built with [Bulma CSS framework](https://bulma.io).
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Fork this repo and give it a proper name (i.e. "resume"). Then clone it locally 
 
 It's just an `index.html` file, so there isn't much to do besides edit and go. You can view the template live [here](https://burkeholland.github.io/bulma-resume).
 
-Refer to the Bulma documentation for any questions about how to use the framework, modifiers, etc. The easiest way to change the colors on the resume is to search for `has-background` and then try replacing those values with any of the [Bulma color modifiers](https://bulma.io/documentation/overview/colors/).
+Refer to the Bulma documentation for any questions about how to use the framework, modifiers, etc. The easiest way to change the colors on the resume is to search for `has-background` and then try replacing those values with any of the [Bulma color modifiers](https://bulma.io/documentation/helpers/color-helpers/).
 
 ## Publish to GitHub Pages
 
